@@ -1,5 +1,5 @@
 <head>
-    ### Sinu's Portfolio
+    <b>Sinu's Portfolio</b>
 </head>
 <body>
     <h1>My Portfolio - Only html project</h1>
