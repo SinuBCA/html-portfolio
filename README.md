@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sinu's Portfolio</title>
+    ### Sinu's Portfolio
 </head>
 <body>
-    <h1>My Portfolio only html project</h1>
+    <h1>My Portfolio - Only html project</h1>
     <h2>I'm a Frontend Developer</h2>
     <hr>
     <h3><a href="./public/movie-ranking.html">My Favorite Movies Project</a></h3>
